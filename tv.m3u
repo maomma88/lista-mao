@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1, Mas Telesistema
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Telered
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Memorias Series
+http://190.60.39.220:8000/play/a025/index.m3u8
+
+#EXTINF:-1, Memorias Toons
+http://190.60.39.220:8000/play/a026/index.m3u8
+
+#EXTINF:-1, Mi TV Retro
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
+
+#EXTINF:-1,STV
+http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
+
+#EXTINF:-1, Dreikotv
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+
+#EXTINF:-1, Retro tv online
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+
+#EXTINF:-1, Tv retropalmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1, Teleclasica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+
+#EXTINF:-1, Tvs Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1, ETC Tv
+http://190.60.39.221:8000/play/a05m
+
+#EXTINF:-1, Retro toons
+https://lbgo.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
+
+#EXTINF:-1, Tv Nosara
+https://latamvdo.com:3870/hybrid/play.m3u8
+
+#EXTINF:-1, Ciudad Magica TV
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
+
+#EXTINF:-1, antena seis
+https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Best Clasics
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
+#EXTINF:-1, Telemás
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+
+#EXTINF:-1, FMH Animotion
+http://190.60.39.220:8000/play/a03d/index.m3u8
+
+#EXTINF:-1, Canal 1
+https://vid.canal1cr.com:3424/multi_live/play_480.m3u8
+
+#EXTINF:-1, Tv Agro
+http://190.60.39.221:8000/play/a02m/index.m3u8
+
+#EXTINF:-1, canal 7
+http://38.65.175.25:8000/play/a0la/index.m3u8
+
+#EXTINF:-1, canal 5
+http://38.65.175.25:8000/play/a0ll/index.m3u8
+
+#EXTINF:-1, Metv toons
+http://31.43.191.125:8080/restream/restream/155725
+
+#EXTINF:-1, Metv toons2
+https://zonacero.lat:443/56963917511/Y6Jb9QTu2X/416672
+
+#EXTINF:-1, Metv 
+http://31.43.191.125:8080/restream/restream/155723
+
+#EXTINF:-1, Metv2
+https://zonacero.lat:443/56963917511/Y6Jb9QTu2X/416603
+
+#EXTINF:-1, Metv+
+http://31.43.191.125:8080/restream/restream/155724
+
+#EXTINF:-1, Metv+2
+https://zonacero.lat:443/56963917511/Y6Jb9QTu2X/416604
+
+#EXTINF:-1, Antenna
+http://31.43.191.125:8080/restream/restream/154655
+
+#EXTINF:-1, Antenna2
+https://zonacero.lat:443/56963917511/Y6Jb9QTu2X/416524
+
+#EXTINF:-1, fetv
+http://31.43.191.125:8080/restream/restream/155243
+
+#EXTINF:-1, fetv2
+https://zonacero.lat:443/56963917511/Y6Jb9QTu2X/416559
+
+#EXTINF:-1, Heroes&Icons
+http://31.43.191.125:8080/restream/restream/155605
+
+#EXTINF:-1, Heroes&Icons2
+https://zonacero.lat:443/56963917511/Y6Jb9QTu2X/416583
+
+#EXTINF:-1, catchy comedy
+https://zonacero.lat:443/56963917511/Y6Jb9QTu2X/416536
+
+
+
