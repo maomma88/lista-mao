@@ -44,8 +44,8 @@ https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:-1, Ciudad Magica TV
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 
-#EXTINF:-1, antena seis
-https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Clasicos animados
+https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Best Clasics
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
@@ -61,6 +61,9 @@ https://vid.canal1cr.com:3424/multi_live/play_480.m3u8
 
 #EXTINF:-1, Tv Agro
 http://190.60.39.221:8000/play/a02m/index.m3u8
+
+#EXTINF:-1, El mundo del campo
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 
 #EXTINF:-1, canal 7
 http://38.65.175.25:8000/play/a0la/index.m3u8
