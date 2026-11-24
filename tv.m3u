@@ -35,6 +35,9 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1, ETC Tv
 http://190.60.39.221:8000/play/a05m
 
+#EXTINF:-1, la red tv
+https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
+
 #EXTINF:-1, Retro toons
 https://lbgo.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 
@@ -65,14 +68,11 @@ http://190.60.39.221:8000/play/a02m/index.m3u8
 #EXTINF:-1, El mundo del campo
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 
-#EXTINF:-1, canal 7
-http://38.65.175.25:8000/play/a0la/index.m3u8
-
-#EXTINF:-1, canal 5
-http://38.65.175.25:8000/play/a0ll/index.m3u8
-
 #EXTINF:-1, Metv toons
 http://31.43.191.125:8080/restream/restream/155725
+
+#EXTINF:-1, Metv toons2
+https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
 
 #EXTINF:-1, Metv 
 http://31.43.191.125:8080/restream/restream/155723
@@ -89,8 +89,58 @@ http://31.43.191.125:8080/restream/restream/155243
 #EXTINF:-1, Heroes&Icons
 http://31.43.191.125:8080/restream/restream/155605
 
-#EXTINF:-1, catchy comedy
-https://zonacero.lat:443/56963917511/Y6Jb9QTu2X/416536
+#EXTINF:-1, comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+
+#EXTINF:-1, Family ties
+https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
+
+#EXTINF:-1, Forever kids
+https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+
+#EXTINF:-1, More Tv Drama
+https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
+
+#EXTINF:-1, NBC comedy vault
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+
+#EXTINF:-1, Pluto tv retro
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+
+#EXTINF:-1, Pluto tv retro kid
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+
+#EXTINF:-1, TVS nostalgia
+https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
+
+#EXTINF:-1, retrovision
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1, vclassic
+http://186.148.196.100:8000/play/a02z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
